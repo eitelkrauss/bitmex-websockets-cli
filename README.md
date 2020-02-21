@@ -23,3 +23,12 @@ subscribe ...
 	trade:XBTUSD # subscribe to XBTUSD trades
 ```
 
+
+You can subscribe to as many topics as you wish.
+To unsubscribe simply type:
+
+```bash
+unsubscribe ...
+	chat:1 # will unsubscribe from chat channel 1
+```
+
