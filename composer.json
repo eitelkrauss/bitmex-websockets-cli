@@ -1,0 +1,16 @@
+{
+    "name": "eitel/prueba",
+    "description": "es una prueba",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "eitel krauss",
+            "email": "eitel@krauss.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ratchet/pawl": "dev-master"
+    }
+}
