@@ -4,7 +4,7 @@ Asynchronous command line app to interact with the BitMEX websockets API.
 
 
 ## Installation
-
+Clone the repository, cd into the folder and run composer install
 ```bash
 composer install
 ```
