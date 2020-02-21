@@ -12,6 +12,8 @@ composer install
 
 ## Usage
 
+Run bitmex_websockets_cli.php and then type in terminal:
+
 ```bash
 subscribe ...
 	chat # subscribe to all chats
